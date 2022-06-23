@@ -1,4 +1,12 @@
 ### Hi there 👋
+- 🔭 Graduated from  <a href="https://www.linkedin.com/in/kim-donghwan/"><img src="https://dwj199mwkel52.cloudfront.net/assets/lewagon-logo-square-2a7e532ae58fc9d4d8520121389bfcd449cd47f4fa4e6f1bfdd1e4ff14baf562.png" width="20" height="20"/></a>
+- 🌱 I’m currently improving my <img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" width="20" height="20"/> with https://javascript30.com/ :relaxed:
+- :building_construction: also building my porfolio and content/projects to have on it 
+- 💬 Linkedin -> <a href="https://www.linkedin.com/in/sergio-pizarro-segovia/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" width="20" height="20"> </a>
+- :eyes: looking for new projects 
+-  Have a little laugh 😄 F5 to a new one :eyes:
+
+  <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." width="250" height="300">
 
 <!--
 **SergioPizarro/SergioPizarro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
